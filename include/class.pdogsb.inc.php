@@ -47,6 +47,7 @@ class PdoGsb{
 	}
 /**
  * hache le mot de passe, recherche un visiteur et retourne les informations d'un visiteur
+ 
  * @param $login : login du visiteur
  * @param $mdp  : mot de passe non haché du visiteur
  * @return l'id, le nom et le prénom sous la forme d'un tableau associatif 
